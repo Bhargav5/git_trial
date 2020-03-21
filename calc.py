@@ -7,7 +7,6 @@ def sub(x,y):
 def div(x,y):
     if y !=0:
         return x//y
-    else:
-        return None
+    return None
 def mul(x,y):
     return x * y
